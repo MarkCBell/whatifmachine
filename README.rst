@@ -86,7 +86,7 @@ This allows us to see what the impact would be if ``g`` only took half the time 
 So we can see that making ``g`` 100% faster would only make the script 37% faster.
 By comparison, the WhatIfMachine allows us to discover that the same effect can be achieved by making ``h`` just 40% faster.
 
-This is the impact of `Amdahl's law <https://en.wikipedia.org/wiki/Amdahl%27s_law>`_
+This is the impact of `Amdahl's law <https://en.wikipedia.org/wiki/Amdahl%27s_law>`_.
 So although the WhatIfMachine can't actually make your code run any faster, it can indicate where investing your effort in optimising your code can have the biggest payoff.
 
 Decorator
