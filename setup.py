@@ -12,7 +12,7 @@ def readme():
 setup(
     name='whatifmachine',
     version='0.1.0',
-    description='',
+    description='A profiler where you can imagine what if ...',
     long_description=readme(),
     author='Mark Bell',
     author_email='mcbell@illinois.edu',
